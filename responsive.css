@@ -1,0 +1,89 @@
+@media only screen and (max-width:1600px) {
+    .a-tags a {
+        font-size: 1.3rem;
+    }
+    .i-tags i {
+        font-size: 1.2rem;
+    }
+    .single-icon>a>i {
+        font-size: 1.7rem;
+    }
+    .main-heading {
+        font-size: 5rem;
+    }
+    .sub-heading {
+        font-size: 1.8rem;
+    }
+    .cards {
+        width: 400px;
+        height: 225px;
+    }
+    .bottom h1 {
+        font-size: 1.4rem;
+    }
+    .bottom button {
+        font-size: 0.9rem;
+    }
+    .bottom button::before {
+        height: 36px;
+    }
+    .bottom button:hover::before {
+        width: 126px;
+    }
+}
+
+@media only screen and (max-width:1366px) {
+    .cards {
+        width: 370px;
+        height: 209px;
+    }
+    .bottom h1 {
+        font-size: 1.2rem;
+    }
+    .bottom button {
+        font-size: 0.8rem;
+    }
+    .bottom button::before {
+        height: 35px;
+    }
+    .bottom button:hover::before {
+        width: 116px;
+    }
+}
+
+@media only screen and (max-width:1152px) {
+    .a-tags a {
+        font-size: 1.2rem;
+    }
+    .i-tags i {
+        font-size: 1.1rem;
+    }
+    .single-icon>a>i {
+        font-size: 1.5rem;
+    }
+    .main-heading {
+        font-size: 4rem;
+    }
+    .sub-heading {
+        font-size: 1.5rem;
+    }
+    .cards {
+        width: 300px;
+        height: 169px;
+    }
+    .bottom {
+        padding: 0 20px;
+    }
+    .bottom h1 {
+        font-size: 1rem;
+    }
+    .bottom button {
+        font-size: 0.6rem;
+    }
+    .bottom button::before {
+        height: 30px;
+    }
+    .bottom button:hover::before {
+        width: 96px;
+    }
+}
